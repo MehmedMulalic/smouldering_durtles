@@ -172,7 +172,7 @@ public final class Constants {
             + "This app will always be free and open source, but if you'd like to support the development, you can do so by <a href='https://ko-fi.com/jerrycooke' target='_blank'>donating</a>. <br/><br/>"
             + "It has been independently developed, and is not supported by, affiliated with, or endorsed by Tofugu.<br/><br/>"
             + Identification.APP_NAME + " has been independently developed, and is not supported by, affiliated with, or endorsed by Tofugu. <br/><br/>"
-            + "Tis app uses these Open Source components:<ul>"
+            + "This app uses these Open Source components:<ul>"
             + " <li>&nbsp;<a href=\"https://github.com/FasterXML/jackson\">The Jackson Project</a>"
             + " <li>&nbsp;<a href=\"https://airbnb.io/lottie/\">Lottie</a>"
             + " <li>&nbsp;<a href=\"https://jsoup.org/\">JSoup</a>"
